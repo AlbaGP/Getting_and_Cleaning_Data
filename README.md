@@ -13,7 +13,7 @@ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartpho
 4. Once the script is run in your computer, it creates a file in your working directory called TidyData.txt with the tidy data set created from the data in the zip folder
 5. The script automatically downloads the plyr package which is needed
 
-## Script explanation
+# Script explanation
 
 We should create one R script called run_analysis.R that does the following. 
 
