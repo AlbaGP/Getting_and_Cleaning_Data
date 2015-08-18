@@ -71,7 +71,7 @@ We have included a subset of these variables. Concretely, we have chosen just th
 52. "FrequencyBodyAccelerationJerkStandardDeviationX"        
 53. "FrequencyBodyAccelerationJerkStandardDeviationY"        
 54. "FrequencyBodyAccelerationJerkStandardDeviationZ"        
-55."FrequencyBodyGyroMeanX"                                 
+55. "FrequencyBodyGyroMeanX"                                 
 56. "FrequencyBodyGyroMeanY"                                 
 57. "FrequencyBodyGyroMeanZ"                                 
 58. "FrequencyBodyGyroStandardDeviationX"                    
