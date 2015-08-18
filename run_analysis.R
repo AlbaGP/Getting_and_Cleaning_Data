@@ -72,7 +72,6 @@ for (i in 3:length(columnNames))
   columnNames[i]<-gsub("std", "StandardDeviation", columnNames[i])
   columnNames[i]<-gsub("Mag","Magnitude",columnNames[i])
   columnNames[i]<-gsub("BodyBody","Body", columnNames[i])
-  columnNames[i]<-gsub("Freq","Frequency", columnNames[i])
   columnNames[i]<-gsub("^f", "Frequency",columnNames[i])
 }
 
