@@ -80,8 +80,9 @@ colnames(finalSet)<-columnNames
 ## 5.From the data set in step 4, create a second, independent tidy data set with the average of each variable for each activity and each subject.
 
 data_grouped<-ddply(finalSet,c("IdActivity","IdSubject"),numcolwise(mean))
+data_grouped_wit_act<-merge(data_grouped,activitylabs,by='IdActivity',all.x=TRUE)
 
 # Create the txt file to be submitted
-write.table(data_grouped, file = "./TidyData.txt",row.name=FALSE)
+write.table(data_grouped_wit_act, file = "./TidyData.txt",row.name=FALSE)
 
 
