@@ -8,7 +8,7 @@ The data used for this project represent data collected from the accelerometers 
 
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
-The data that we have used can be download from the following link:
+The data that we have used can be downloaded from the following link:
 
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
