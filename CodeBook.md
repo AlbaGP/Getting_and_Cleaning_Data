@@ -38,5 +38,7 @@ Change the column names for those columns referring to activities so that they a
 Create the final data set with the data grouped by IdActivity and IdSubject, and the activity columns aggregated using the mean.
 Finally, we create a txt file containing the tidy data set called TidyData.txt
 
-
+## Variables description
+A description of all the variables is included in the file features_info.txt located in https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+We have included a subset of these variables. Concretely, we have chosen just the variables relative to the mean and the standard deviation. We have also changed their names so that they are more easily readable and understandable in order to make them as descriptive as possible.
 
