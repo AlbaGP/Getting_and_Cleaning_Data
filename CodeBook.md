@@ -34,8 +34,8 @@ A description of all the variables is included in the file features_info.txt loc
 We have included a subset of these variables. Concretely, we have chosen just the variables relative to the mean and the standard deviation. We have also changed their names so that they are more easily readable and understandable in order to make them as descriptive as possible.
 
 ## List of the variables included in the tidy data set
-1. "IdActivity"                                             
-2. "IdSubject"                                              
+1. "IdSubject"                                             
+2. "Activity"                                              
 3. "TimeBodyAccelerationMeanX"                              
 4. "TimeBodyAccelerationMeanY"                              
 5. "TimeBodyAccelerationMeanZ"                              
@@ -102,4 +102,4 @@ We have included a subset of these variables. Concretely, we have chosen just th
 66. "FrequencyBodyGyroMagnitudeStandardDeviation"            
 67. "FrequencyBodyGyroJerkMagnitudeMean"                     
 68. "FrequencyBodyGyroJerkMagnitudeStandardDeviation" 
-69. "Activity" 
+
